@@ -36,4 +36,4 @@ Story telling using Power Bi.
 
 ## Results
 
-![A remote image](https://github.com/adanque/Building-an-informative-Infographic-with-Power-Bi/Fictious Airlines%20Commited%20To%20Flying%20Safer%20Infographic.png)
+![A remote image](https://github.com/adanque/Building-an-informative-Infographic-with-Power-Bi/blob/main/Fictious%20Airlines%20Commited%20To%20Flying%20Safer%20Infographic.png)
